@@ -1,1 +1,2 @@
-# 205IC_A2_PP_Kalkulator
+# Kalkulator
+Switch calculating mathematical operations
